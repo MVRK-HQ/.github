@@ -1,5 +1,5 @@
 ## Monday Pulse ID
-// Must be prepended with a #: `#847326281`
+// Must be prepended with a #. Example: `#847326281`
 
 
 
